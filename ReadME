@@ -1,0 +1,9 @@
+This is my final exam from Sirma Solutions Java academy.
+
+Create an application that identifies the pair of employees who have worked
+together on common projects for the longest period of time and the time for
+each of those projects.
+
+The first part of the solution was to extract the information from the CSV file.
+Then, I check if there are pairs that have worked together and, if so, for how long.
+The final part of the solution is printing the formatted data.
